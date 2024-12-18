@@ -28,7 +28,7 @@
         "d3fc": "^15.1.2",
         "document-register-element": "^1.14.10",
         "electron": "^29.4.3",
-        "express": "^4.19.2",
+        "express": "^4.21.2",
         "faye-websocket": "^0.11.3",
         "flic": "^1.3.7",
         "https-proxy-agent": "^5.0.0",
